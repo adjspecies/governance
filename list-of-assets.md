@@ -33,4 +33,6 @@
     * survey.adjectivespecies.com
     * furrypoll.com
 
-\* Paid for with member dues.
+\* Paid for with support via the \[a\]\[s\] Patreon.
+
+Updated on *March 26, 2016*.

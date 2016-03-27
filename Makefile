@@ -6,11 +6,12 @@ constitution.pdf: constitution.tex
 
 .PHONY: sign
 sign:
-	rm *.sig
+	-rm *.sig
 	gpg -o constitution.pdf.sig -u c55309ab --detach-sig -a constitution.pdf
 	gpg -o constitution.tex.sig -u c55309ab --detach-sig -a constitution.tex
 	gpg -o code-of-conduct.md.sig -u c55309ab --detach-sig -a code-of-conduct.md
 	gpg -o list-of-assets.md.sig -u c55309ab --detach-sig -a list-of-assets.md
+	gpg -o roll.md.sig -u c55309ab --detach-sig -a roll.md
 
 .PHONY: verify
 .DEFAULT_GOAL := verify
@@ -23,3 +24,5 @@ verify:
 	gpg --verify code-of-conduct.md.sig code-of-conduct.md
 	@echo "\n\033[1;32mVerifying list of assets...\033[0m"
 	gpg --verify list-of-assets.md.sig list-of-assets.md
+	@echo "\n\033[1;32mVerifying member roll...\033[0m"
+	gpg --verify roll.md.sig roll.md
