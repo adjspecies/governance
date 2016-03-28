@@ -14,7 +14,7 @@
 
 ### Section 3. Business Name
 
-"\[adjective\]\[species\], Ltd".
+"\[adjective\]\[species\], Ltd", a Colorado Limited Liability Corporation with ID 20131338357.
 
 ## Article II - Purpose
 
@@ -160,7 +160,7 @@ The Code of Conduct may be amended through a simple majority by way of an email 
 
 -----
 
-I, Madison Scott-Clary, as president of this organization and with the approval of the members and officers, sign my approval of this constitution digitally and date its acceptance on *March 26, 2016*.
+I, Madison Scott-Clary, as president of this organization and with the approval of the members and officers, sign my approval of this constitution digitally and date its acceptance on *March 28, 2016*.
 
 Signatures may be viewed at https://github.com/adjspecies/governance, along with resources mentioned in this constitution.
 

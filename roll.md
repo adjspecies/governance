@@ -21,4 +21,4 @@
 * Makyo (President)
 * JM (Editor)
 
-Updated on *March 26, 2016*.
+Updated and signed on *March 28, 2016*.
