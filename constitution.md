@@ -142,7 +142,7 @@ Executive board meetings shall not be held except in emergency situations.
 
 This constitution may be amended at any regular business meeting of the organization by two-thirds vote of active membership, provided that the amendment has been submitted to the membership in writing at least one week prior to the business meeting.
 
-## Article VI - Financial Structure
+## Article VII - Financial Structure
 
 ### Section 1. Duties of the President
 
@@ -166,4 +166,4 @@ Signatures may be viewed at https://github.com/adjspecies/governance, along with
 
 ------
 
-# Ammendments
+# Amendments

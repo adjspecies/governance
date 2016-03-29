@@ -8,3 +8,5 @@ This includes:
 * The \[a\]\[s\] code of conduct
 * List of assets with financial impact
 * Digital signatures of documents
+
+**NOTE:** these are not binding until signatures have been published.
